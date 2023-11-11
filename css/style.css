@@ -20,7 +20,7 @@ dd {
   padding: 0;
   line-height: 1;
   /* color: #4f260b; */
-  font-family: "Futura PT", "Arial", "Noto Sans CJK JP";
+  font-family: "Futura PT", "Noto Sans CJK JP";
 }
 ul {
   list-style: none;
@@ -71,10 +71,11 @@ html {
   padding: 0 10px 0 10px;
 }
 .header-nav ul {
+  font-family: "futura-pt";
+  font-weight: 600;
+  font-style: normal;
   font-size: 14px;
   color: #383087;
-  font-family: Futura PT;
-  font-weight: bold;
   text-align: center;
   display: flex;
   justify-content: space-between;
@@ -159,11 +160,6 @@ html {
     padding: 10px 0;
     font-family: Futura PT;
   }
-  /* .main-wrap {
-    padding: 0 2px;
-    margin-bottom: 50px;
-    margin-top: 40px;
-  } */
   .text1 {
     font-size: 17px;
     margin-bottom: 30px;
@@ -199,9 +195,10 @@ html {
 .main {
   max-width: 433px;
   color: #000e82;
-  font-family: Futura PT;
-  font-size: 46px;
-  font-weight: bold;
+  font-family: "futura-pt-bold";
+  font-size: 45px;
+  font-weight: 700;
+  font-style: normal;
   padding-top: 148px;
   padding-left: 80px;
 }
@@ -211,9 +208,9 @@ html {
 .main2 {
   max-width: 420px;
   color: #000e82;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 14px;
-  font-weight: Book;
+  font-weight: 300;
   border-bottom: 1px solid #8080b2;
   text-align: right;
   margin-left: 80px;
@@ -221,9 +218,9 @@ html {
 }
 .name {
   color: #383087;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 22px;
-  font-weight: book;
+  font-weight: 600;
   letter-spacing: 2px;
   margin-top: 16px;
   margin-left: 80px;
@@ -236,27 +233,28 @@ html {
 }
 .mv-text {
   color: #383087;
-  font-family: Futura PT;
   font-size: 17px;
-  font-weight: Book;
+  font-family: "futura-pt";
+  font-weight: 400;
+  font-style: normal;
   line-height: 33px;
   margin-left: 80px;
   margin-top: 160px;
 }
 .mv-text2 {
   color: #383087;
-  font-family: Futura PT;
   font-size: 17px;
-  font-weight: Book;
-
+  font-family: "futura-pt";
+  font-weight: 400;
+  font-style: normal;
   margin-right: 80px;
   margin-top: 170px;
 }
 .mv-text3 {
   color: #383087;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 17px;
-  font-weight: Book;
+  font-weight: 400;
   margin-right: 20px;
   margin-top: 16px;
 }
@@ -284,9 +282,9 @@ html {
   }
   .main {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt-bold";
     font-size: 32px;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     margin-right: 63px;
   }
@@ -295,17 +293,17 @@ html {
   }
   .main2 {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 13px;
-    font-weight: Book;
+    font-weight: 300;
     max-width: 290px;
     margin-left: 110px;
   }
   .name {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 22px;
-    font-weight: book;
+    font-weight: 600;
     letter-spacing: 2px;
     text-align: center;
     margin-right: 63px;
@@ -314,9 +312,9 @@ html {
     display: block;
     max-width: 300px;
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 17px;
-    font-weight: Book;
+    font-weight: 400;
     line-height: 33px;
     margin-left: auto;
     margin-right: 148px;
@@ -327,17 +325,17 @@ html {
   }
   .mv-text2 {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 17px;
-    font-weight: Book;
+    font-weight: 400;
     text-align: center;
     margin-left: 92px;
   }
   .mv-text3 {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 17px;
-    font-weight: Book;
+    font-weight: 400;
     text-align: center;
     margin-left: 36px;
   }
@@ -364,9 +362,9 @@ html {
   }
   .main {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt-bold";
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
   }
   .orange {
@@ -374,17 +372,17 @@ html {
   }
   .main2 {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 12px;
-    font-weight: Book;
+    font-weight: 300;
     max-width: 200px;
     margin-left: 84px;
   }
   .name {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: book;
+    font-weight: 600;
     letter-spacing: 2px;
     text-align: center;
   }
@@ -392,9 +390,9 @@ html {
     display: block;
     width: 100%;
     color: #383087;
-    font-family: Futura PT;
-    font-size: 14px;
-    font-weight: Book;
+    font-family: "futura-pt";
+    font-size: 16px;
+    font-weight: 400;
     text-align: left;
     margin-top: 80px;
     margin-left: 24px;
@@ -405,18 +403,18 @@ html {
   }
   .mv-text2 {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: Book;
+    font-weight: 400;
     text-align: center;
     margin-top: 96px;
     margin-left: 85px;
   }
   .mv-text3 {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: Book;
+    font-weight: 400;
     text-align: center;
     margin-top: 8px;
     margin-left: px;
@@ -444,9 +442,9 @@ html {
   }
   .main {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt-bold";
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     margin-right: auto;
     padding-left: 0;
@@ -456,18 +454,18 @@ html {
   }
   .main2 {
     color: #000e82;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 12px;
-    font-weight: Book;
+    font-weight: 300;
     max-width: 197px;
     margin-right: 53px;
     margin-left: auto;
   }
   .name {
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: book;
+    font-weight: 600;
     letter-spacing: 2px;
     text-align: center;
     margin-right: 80px;
@@ -475,9 +473,9 @@ html {
   .mv-text-sp {
     display: block;
     color: #383087;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 14px;
-    font-weight: Book;
+    font-weight: 400;
     margin: 50px 0px 0 20px;
     line-height: 25px;
   }
@@ -486,17 +484,17 @@ html {
   }
   .mv-text2 {
     color: #383087;
-    font-family: Futura PT;
-    font-size: 15px;
-    font-weight: Book;
+    font-family: "futura-pt";
+    font-size: 14px;
+    font-weight: 400;
     text-align: center;
     margin: 72px 50px 0 50px;
   }
   .mv-text3 {
     color: #383087;
-    font-family: Futura PT;
-    font-size: 15px;
-    font-weight: Book;
+    font-family: "futura-pt";
+    font-size: 14px;
+    font-weight: 400;
     text-align: center;
     margin: 8px 40px 0 40px;
   }
@@ -517,18 +515,18 @@ html {
 }
 
 .title {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 35px;
-  font-weight: heavy;
+  font-weight: 600;
   color: #e97829;
   display: flex;
   justify-content: center;
   padding-top: 64px;
 }
 .title-jp {
-  font-family: Noto Sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 700;
   color: #383087;
   display: flex;
   justify-content: center;
@@ -537,9 +535,9 @@ html {
 }
 .profile {
   max-width: 600px;
-  font-family: Noto Sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: Reguler;
+  font-weight: 400;
   color: #383087;
   margin: 0 auto;
 }
@@ -562,9 +560,9 @@ html {
 .read {
   display: block;
   height: 24px;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 15px;
-  font-weight: Book;
+  font-weight: 400;
   color: #8080b2;
   line-height: 24px;
   text-align: center;
@@ -590,9 +588,9 @@ html {
     display: block;
   }
   .profile-detail-sp {
-    font-family: Noto Sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 16px;
-    font-weight: Reguler;
+    font-weight: 400;
     color: #383087;
     text-align: center;
     line-height: 32px;
@@ -622,7 +620,6 @@ html {
 
 .galley-box {
   max-width: 60%;
-  /* display: flex; */
   margin: 0 auto;
   padding-bottom: 72px;
 }
@@ -638,9 +635,9 @@ html {
   margin: 72px 270px 0 auto;
 }
 .see {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 15px;
-  font-weight: Book;
+  font-weight: 400;
   color: #8080b2;
   text-align: center;
   display: block;
@@ -763,12 +760,12 @@ html {
 }
 
 .menu {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 16px;
-  font-weight: Reguler;
+  font-weight: 400;
   color: #383087;
   border-right: 1px solid #8080b2;
-  padding-right: 50px;
+  padding-right: 60px;
   letter-spacing: 2px;
 }
 .menu li {
@@ -776,9 +773,9 @@ html {
   line-height: 30px;
 }
 .price {
-  font-family: Futura PT;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: Reguler;
+  font-weight: 400;
   color: #383087;
   padding-left: 50px;
 }
@@ -824,9 +821,9 @@ html {
   .menu-sp {
     max-width: 320px;
     margin: 0 auto;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: Reguler;
+    font-weight: 400;
     color: #383087;
     border-bottom: 1px solid #8080b2;
     padding-bottom: 56px;
@@ -837,9 +834,9 @@ html {
   .price-sp {
     max-width: 320px;
     margin: 0 auto;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 16px;
-    font-weight: Reguler;
+    font-weight: 400;
     color: #383087;
     padding-top: 64px;
   }
@@ -879,17 +876,17 @@ html {
   -webkit-border-radius: 15px;
 }
 .title-confirm {
-  font-family: Noto Sans CJK JP;
-  font-weight: bold;
-  font-size: 18px;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 700;
+  font-size: 16px;
   color: #002573;
   text-align: center;
   margin-top: 72px;
 }
 .title-confirm2 {
-  font-family: Noto Sans CJK JP;
-  font-weight: bold;
-  font-size: 18px;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 700;
+  font-size: 16px;
   color: #002573;
   text-align: center;
   margin-top: 72px;
@@ -899,24 +896,29 @@ html {
   align-items: center;
 }
 .number {
-  font-size: 28px;
-  font-weight: bold;
+  font-family: "futura-pt";
+  font-size: 32px;
+  font-weight: 600;
   padding-bottom: 30px;
 }
 .line-1-2 {
   margin-left: 10px;
+  margin-bottom: 17px;
 }
 .line-1 {
-  font-weight: bold;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 500;
+  font-size: 20px;
 }
 .line-2 {
-  font-weight: light;
-  line-height: 32px;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 300;
+  line-height: 18px;
 }
 .flow-text {
-  font-family: Noto sana CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: light;
+  font-weight: 300;
   color: #383087;
   padding-top: 64px;
   padding-left: 70px;
@@ -936,9 +938,9 @@ html {
 .check-text {
   display: flex;
   align-items: center;
-  font-family: Noto Sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: light;
+  font-weight: 300;
   color: #383087;
   margin-top: 12px;
   margin-left: 75px;
@@ -959,17 +961,28 @@ html {
     -webkit-border-radius: 15px;
   }
   .flow-text {
-    font-family: Noto sana CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 13px;
-    font-weight: light;
+    font-weight: 300;
     color: #383087;
     padding-top: 42px;
     padding-left: 40px;
   }
   .number {
+    font-family: "futura-pt";
     font-size: 21px;
-    font-weight: bold;
+    font-weight: 600;
     padding-bottom: 33px;
+  }
+  .line-1 {
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 400;
+    font-size: 18px;
+  }
+  .line-2 {
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 100;
+    line-height: 18px;
   }
   .check-list {
     max-width: 340px;
@@ -985,9 +998,9 @@ html {
   .check-text {
     display: flex;
     align-items: center;
-    font-family: Noto Sans CJK JP;
-    font-size: 13px;
-    font-weight: light;
+    font-family: "noto-sans-cjk-jp";
+    font-size: 16px;
+    font-weight: 300;
     color: #383087;
     margin-top: 7px;
     margin-left: 30px;
@@ -996,16 +1009,16 @@ html {
     width: 35px;
   }
   .title-confirm {
-    font-family: Noto Sans CJK JP;
-    font-weight: bold;
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 700;
     font-size: 18px;
     color: #002573;
     text-align: center;
     margin-top: 72px;
   }
   .title-confirm2 {
-    font-family: Noto Sans CJK JP;
-    font-weight: bold;
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 700;
     font-size: 18px;
     color: #002573;
     text-align: center;
@@ -1025,16 +1038,17 @@ html {
     -webkit-border-radius: 15px;
   }
   .flow-text {
-    font-family: Noto sana CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 12px;
-    font-weight: light;
+    font-weight: 300;
     color: #383087;
     padding-top: 30px;
     padding-left: 20px;
   }
   .number {
+    font-family: "futura-pt";
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 600;
     padding-bottom: 33px;
   }
   .check-list {
@@ -1051,9 +1065,9 @@ html {
   .check-text {
     display: flex;
     align-items: center;
-    font-family: Noto Sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 12px;
-    font-weight: light;
+    font-weight: 300;
     color: #383087;
     margin-top: 1px;
     margin-left: 26px;
@@ -1062,17 +1076,17 @@ html {
     width: 35px;
   }
   .title-confirm {
-    font-family: Noto Sans CJK JP;
-    font-weight: bold;
-    font-size: 18px;
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 600;
+    font-size: 16px;
     color: #002573;
     text-align: center;
     margin-top: 72px;
   }
   .title-confirm2 {
-    font-family: Noto Sans CJK JP;
-    font-weight: bold;
-    font-size: 18px;
+    font-family: "noto-sans-cjk-jp";
+    font-weight: 600;
+    font-size: 16px;
     color: #002573;
     text-align: center;
     margin-top: 72px;
@@ -1099,8 +1113,8 @@ html {
   position: relative;
 }
 .contact-text {
-  font-family: Noto Sans CJK JP;
-  font-weight: light;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 300;
   font-size: 16px;
   color: #383087;
   position: absolute;
@@ -1140,9 +1154,9 @@ html {
   height: 24px;
   line-height: 24px;
   margin: 0 auto;
-  font-family: Noto sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 14px;
-  font-weight: light;
+  font-weight: 300;
   color: #8080b2;
   padding-left: 26px;
 }
@@ -1165,9 +1179,9 @@ html {
   background-color: #002573;
 }
 .footer-logo {
-  font-family: Futura PT;
+  font-family: "futura-pt-bold";
   font-size: 30px;
-  font-weight: bold;
+  font-weight: 700;
   color: #e97829;
   text-align: center;
   padding-top: 24px;
@@ -1181,15 +1195,15 @@ html {
 }
 .footer-menu {
   line-height: 1.4;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 16px;
-  font-weight: medium;
+  font-weight: 400;
   color: #e0e5ec;
 }
 .title-bottom {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 16px;
-  font-weight: light;
+  font-weight: 400;
   color: #e0e5ec;
   text-align: center;
   margin-top: 4px;
@@ -1321,29 +1335,29 @@ _:-ms-lang(x),
 .menu-nav ul li {
   font-size: 14px;
   color: #383087;
-  font-family: Futura PT;
-  font-weight: bold;
+  font-family: "futura-pt";
+  font-weight: 600;
   text-align: center;
   margin: 30px auto;
   border: none;
 }
 .logo-wrap {
-  max-width: 419px;
+  max-width: 423px;
   border: none;
   margin: 72px auto;
 }
 .main-a {
   margin: 0 auto;
-  font-family: Futura PT;
-  font-weight: bold;
-  font-size: 46px;
+  font-family: "futura-pt-bold";
+  font-weight: 700;
+  font-size: 45px;
   color: #000e82;
 }
 .main2-a {
   color: #000e82;
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 14px;
-  font-weight: Book;
+  font-weight: 400;
   text-align: right;
 }
 .title-wrap {
@@ -1357,7 +1371,7 @@ _:-ms-lang(x),
   .main-a {
     /* max-width: 430px; */
     text-align: center;
-    font-size: 32px;
+    font-size: 30px;
   }
   .main2-a {
     /* max-width: 124px; */
@@ -1404,43 +1418,43 @@ _:-ms-lang(x),
   color: #383087;
 }
 .iam {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 25px;
-  font-weight: Demi;
+  font-weight: 600;
   border-right: 1px solid #8080b2;
   padding-right: 30px;
 }
 .promise {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 25px;
-  font-weight: Demi;
+  font-weight: 600;
   border-right: 1px solid #8080b2;
   padding-right: 38px;
 }
 .skills {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 25px;
-  font-weight: Demi;
+  font-weight: 600;
   border-right: 1px solid #8080b2;
   padding-right: 70px;
 }
 .iam-text {
-  font-family: Noto sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 18px;
-  font-weight: extra light;
-  line-height: 24px;
+  font-weight: 300;
+  line-height: 30px;
 }
 .promise-text {
-  font-family: Noto sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 18px;
-  font-weight: extra light;
-  line-height: 24px;
+  font-weight: 300;
+  line-height: 30px;
 }
 .skills-text {
-  font-family: Noto sans CJK JP;
+  font-family: "noto-sans-cjk-jp";
   font-size: 18px;
-  font-weight: extra light;
-  line-height: 24px;
+  font-weight: 300;
+  line-height: 30px;
 }
 .iam-text {
   padding-left: 30px;
@@ -1471,54 +1485,54 @@ _:-ms-lang(x),
 
   .iam-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .iam-text-sp {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 18px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
   }
   .promise-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .promise-text-sp {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 18px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
   }
   .skills-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .skills-text-sp {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 18px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
@@ -1541,9 +1555,9 @@ _:-ms-lang(x),
   .top-jp-sp {
     display: block;
     text-align: center;
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-jp";
     font-size: 13px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 24px;
     color: #8080b2;
   }
@@ -1566,54 +1580,54 @@ _:-ms-lang(x),
 
   .iam-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .iam-text-sp2 {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-pt";
     font-size: 16px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
   }
   .promise-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .promise-text-sp2 {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-pt";
     font-size: 16px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
   }
   .skills-sp {
     max-width: 150px;
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 25px;
-    font-weight: light;
+    font-weight: 600;
     color: #383087;
     margin: 48px auto 24px auto;
     border-bottom: 1px solid #383087;
     padding-bottom: 8px;
   }
   .skills-text-sp2 {
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sans-cjk-pt";
     font-size: 15px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 36px;
     color: #383087;
     margin-bottom: 64px;
@@ -1636,9 +1650,9 @@ _:-ms-lang(x),
   .top-jp-sp {
     display: block;
     text-align: center;
-    font-family: Noto sans CJK JP;
+    font-family: "noto-sana-cjk-jp";
     font-size: 13px;
-    font-weight: extra light;
+    font-weight: 300;
     line-height: 24px;
     color: #8080b2;
   }
@@ -1657,8 +1671,8 @@ _:-ms-lang(x),
   flex-wrap: wrap;
 }
 .works-name {
-  font-family: FuturaPT;
-  font-weight: book;
+  font-family: "futura-pt";
+  font-weight: 400;
   font-size: 14px;
   color: #383087;
   border-left: 2px solid #383087;
@@ -1687,9 +1701,9 @@ _:-ms-lang(x),
 /* workspage共通 */
 
 .title-works {
-  font-family: Futura PT;
+  font-family: "futura-pt";
   font-size: 35px;
-  font-weight: bold;
+  font-weight: 600;
   color: #383087;
   text-align: center;
 }
@@ -1698,11 +1712,11 @@ _:-ms-lang(x),
 }
 .works-text-box {
   max-width: 400px;
-  height: 200px;
-  font-family: Noto sans CJK JP;
+  height: 220px;
+  font-family: "noto-sans-cjk-jp";
   font-size: 16px;
-  font-weight: light;
-  color: #8080b2;
+  font-weight: 400;
+  color: #383087;
   border-top: 1px solid #8080b2;
   border-bottom: 1px solid #8080b2;
   margin: 32px auto;
@@ -1711,9 +1725,9 @@ _:-ms-lang(x),
 
 @media screen and (max-width: 432px) {
   .title-works {
-    font-family: Futura PT;
+    font-family: "futura-pt";
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 600;
     color: #383087;
     text-align: center;
     margin-top: 124px;
@@ -1724,11 +1738,11 @@ _:-ms-lang(x),
   }
   .works-text-box {
     max-width: 320px;
-    /* height: 200px; */
-    font-family: Noto sans CJK JP;
+    height: 200px;
+    font-family: "noto-sans-cjk-jp";
     font-size: 14px;
-    font-weight: light;
-    color: #8080b2;
+    font-weight: 400;
+    color: #383087;
     border-top: 1px solid #8080b2;
     border-bottom: 1px solid #8080b2;
     margin: 32px auto;
@@ -1971,8 +1985,8 @@ _:-ms-lang(x),
   letter-spacing: 0.05em;
   font-weight: bold;
   font-size: 16px;
-  font-family: Noto Sans CJK JP;
-  font-weight: normal;
+  font-family: "noto-sans-cjk-jp";
+  font-weight: 400;
   color: #383087;
 }
 @media screen and (max-width: 767px) {
@@ -2116,7 +2130,7 @@ _:-ms-lang(x),
 }
 .thanks-text {
   max-width: 100%;
-  font-family: Futura PT;
+  font-family: "Futura PT";
   font-weight: reguler;
   font-size: 50px;
   color: #000e82;
@@ -2139,7 +2153,7 @@ _:-ms-lang(x),
 @media screen and (max-width: 432px) {
   .thanks-text {
     max-width: 100%;
-    font-family: Futura PT;
+    font-family: "Futura PT";
     font-weight: reguler;
     font-size: 35px;
     color: #000e82;
@@ -2162,7 +2176,7 @@ _:-ms-lang(x),
 }
 
 .thanks-jp {
-  font-family: Noto sans CJK JP;
+  font-family: "Noto sans CJK JP";
   font-size: 16px;
   font-weight: light;
   color: #8080b2;
@@ -2186,7 +2200,7 @@ _:-ms-lang(x),
 .top-jp {
   display: block;
   text-align: center;
-  font-family: Noto sans CJK JP;
+  font-family: "Noto sans CJK JP";
   font-size: 14px;
   font-weight: light;
   color: #8080b2;
