@@ -156,6 +156,8 @@ html {
   .sp-nav ul li {
     text-align: center;
     color: #fff;
+    font-family: "futura-pt";
+    font-weight: 400;
     font-size: 18px;
     padding: 10px 0;
     font-family: Futura PT;
